@@ -2,7 +2,7 @@
     "name": "Drachma",
     "symbol": "Ω",
     "description": "Ancient coin on Solana",
-    "image": "https://github.com/drachmaTheAncient/drachmaMeta/blob/main/logo.png?raw=true",
+    "image": "https://raw.githubusercontent.com/drachmaTheAncient/drachmaMeta/refs/heads/main/logo.png",
     "attributes": [
       {
         "trait_type": "",
