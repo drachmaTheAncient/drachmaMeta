@@ -1,15 +1,12 @@
 {
-  "name": "Drachma",
-  "symbol": "Ω",
-  "description": "Ancient token on Solana",
-  "image": "https://raw.githubusercontent.com/drachmaTheAncient/drachmaMeta/main/logo.png",
-  "attributes": [],
-  "properties": {
-    "files": [
+    "name": "Drachma",
+    "symbol": "Ω",
+    "description": "Ancient coin on Solana",
+    "image": "https://github.com/drachmaTheAncient/drachmaMeta/blob/b001fc556c4007b25031bacdf6c6c6bfb3be378d/logo.png",
+    "attributes": [
       {
-        "uri": "https://raw.githubusercontent.com/drachmaTheAncient/drachmaMeta/main/logo.png",
-        "type": "image/png"
+        "trait_type": "",
+        "value": ""
       }
     ]
   }
-}
