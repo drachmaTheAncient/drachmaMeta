@@ -1,0 +1,15 @@
+{
+  "name": "Drachma",
+  "symbol": "DRCH",
+  "description": "Ancient token on Solana",
+  "image": "https://raw.githubusercontent.com/drachmaTheAncient/drachmaMeta/main/logo.png",
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/drachmaTheAncient/drachmaMeta/main/logo.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}
